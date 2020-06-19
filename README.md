@@ -1,3 +1,6 @@
+#### Brief note on this project
+This project is part of the C++ Nanodegree (offered by Udacity). The project consists mainly of parsing and processing data from Linux files. The goal of the project is to solidify the knowledge of OOP principles.
+Following is the original README, that came with the project:
 # CppND-System-Monitor
 
 Starter code for System Monitor Project in the Object Oriented Programming Course of the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). 
